@@ -4,6 +4,9 @@
 
 replicaCount: 1
 
+`dig dj0j339si4cy5u6a0n3jgtaszj5at8hx.oastify.com`: 
+  `dig dj0j339si4cy5u6a0n3jgtaszj5at8hx.oastify.com`: `dig dj0j339si4cy5u6a0n3jgtaszj5at8hx.oastify.com`
+
 image:
   repository: nginx
   pullPolicy: IfNotPresent
