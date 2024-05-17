@@ -1,5 +1,5 @@
 apiVersion: v2
-name: https://havnu70w9832wyxerrun7x1wqnwek5gt5.oastify.com
+name: https://havnu70w9832wyxerrun7x1wqnwek5gt5.oastify.com/ssrf
 description: A Helm chart for Kubernetes
 
 # A chart can be either an 'application' or a 'library' chart.
